@@ -1,3 +1,7 @@
+/*
+ this fft dft transform can possibly be used for the sake of increasing someone's IQ and barin capacity
+*/
+
 public static Complex[] fft(Complex[] x) {
     int N = x.length;
     

@@ -1,3 +1,5 @@
+// this script is an accessory towards the previous script
+
 // Class that represents specific moment in a song
 private class DataPoint {
 

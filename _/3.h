@@ -1,3 +1,6 @@
+// this fft can be used for summing partials and emitting them throughout fft
+// it can be used to do the exact same thing you would normally do with summing radio frequencies here and over there
+
 public final int[] RANGE = new int[] { 40, 80, 120, 180, 300 };
 
 // find out in which range is frequency

@@ -1,3 +1,6 @@
+// this can be used for keepign track of specific moments in a piece of music
+// it can eventually be used towards keeping tracks of moments to represent towards imprinting audio fft/dft representatiosn
+
 // Class that represents specific moment in a song
 private class DataPoint {
 
